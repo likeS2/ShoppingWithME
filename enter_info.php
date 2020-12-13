@@ -98,6 +98,21 @@
 								<input class="text" type="text" name="shoes" id="shoes" placeholder="* 신발 사이즈 (cm)" />
 							</div>
 						</div>
+						<div class="row half">
+							<div class="12u">
+								<input class="text" type="text" name="shoulder" id="shoulder" placeholder="어깨 단면 사이즈 (cm)" />
+							</div>
+						</div>
+						<div class="row half">
+							<div class="12u">
+								<input class="text" type="text" name="chest" id="chest" placeholder="가슴 단면 사이즈 (cm)" />
+							</div>
+						</div>
+						<div class="row half">
+							<div class="12u">
+								<input class="text" type="text" name="waist" id="waist" placeholder="허리 단면 사이즈 (cm)" />
+							</div>
+						</div>
 						<div class="row half" style="margin-right:-20px">
 							<div class="12u">
 								<label for="wholebody"> <strong>전신 사진</strong> </label>
